@@ -3,13 +3,16 @@
 ## Practical skills
 ### Introduction to Python workshop*
 
-<i>9 January - 27 March</i>
+<i>9 January - 20 February 2026</i>
 
-This is a beginner friendly, no skills assumed, introduction to programming with the Python programming language. We are using the structure and core content provided by Harvard University’s CS50 Introduction to Programming with Python which you can find here: https://cs50.harvard.edu/python/. This block of workshops will provide tutorial support for students as they undertake independent learning and practice. I have made minor adaptations to the structure, including an additional week, with the first class acting as a set-up week to teach students how to use terminal / command prompt, set themselves up with Visual Studio Code, create a GitHub account to save their work, and answer any questions.
+This is a beginner friendly, no skills assumed, introduction to programming with the Python programming language. We are using the structure and core content provided by Harvard University’s CS50 Introduction to Programming with Python which you can find here: https://cs50.harvard.edu/python/. 
+
+<i> 8 April 2026 - current </i>
+Second run of the above course.
 
 ### Introduction to open large language models workshop*
 
-<i>April – June 2026</i>
+<i>No date: likely end of 2026 </i>
 
 This course offers an introduction to using open large language models on your own computer. Please note that basic python programming skills (see: introduction to python workshop above) is necessary for this course. These workshops will provide students the opportunity to download and play with open language models: learning to use ollama and python together, investigating prompt engineering and optional settings, building and using databases in combination with open models, building a RAG setup, verifying model outputs using databases, and explore fine-tuning an open model. Finally, a four-week class project will ensure students leave with the practical skills to implement a basic chatbot with database access, and an extension opportunity to fine-tune that model for particular expertise.
 
