@@ -8,6 +8,7 @@
 This is a beginner friendly, no skills assumed, introduction to programming with the Python programming language. We are using the structure and core content provided by Harvard University’s CS50 Introduction to Programming with Python which you can find here: https://cs50.harvard.edu/python/. 
 
 <i> 8 April 2026 - current </i>
+
 Second run of the above course.
 
 ### Introduction to open large language models workshop*
